@@ -30,6 +30,15 @@ public class Main {
         friend = friend / 7;
         System.out.println(friend);
         //задача 5
+        var frog = 3.5;
+        System.out.println(frog);
+        frog = frog * 10;
+        System.out.println(frog);
+        frog = frog / 3.5;
+        System.out.println(frog);
+        frog = frog + 4;
+        System.out.println(frog);
+        // задача 6
 
     }
 }
