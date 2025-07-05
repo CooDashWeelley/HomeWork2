@@ -39,6 +39,12 @@ public class Main {
         frog = frog + 4;
         System.out.println(frog);
         // задача 6
+        var boxer1 = 78.2;
+        var boxer2 = 82.7;
+        var totalWeight = boxer1 + boxer2;
+        var weightDiff = boxer2 - boxer1;
+        System.out.println(totalWeight);
+        System.out.println(weightDiff);
 
     }
 }
