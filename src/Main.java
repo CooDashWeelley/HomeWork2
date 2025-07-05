@@ -48,6 +48,11 @@ public class Main {
         //задача 7
         var weightPercent = boxer2 % boxer1;
         System.out.println(weightPercent);
+        //задача 8
+        var totalWorktime = 640;
+        var worktimePerPerson = 8;
+        var numberOfWorker = totalWorktime / worktimePerPerson;
+        System.out.println("Всего работников в компании - " + numberOfWorker + " человек");
 
     }
 }
