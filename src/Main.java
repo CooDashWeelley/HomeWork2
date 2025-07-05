@@ -45,6 +45,9 @@ public class Main {
         var weightDiff = boxer2 - boxer1;
         System.out.println(totalWeight);
         System.out.println(weightDiff);
+        //задача 7
+        var weightPercent = boxer2 % boxer1;
+        System.out.println(weightPercent);
 
     }
 }
